@@ -1,2 +1,7 @@
 Hey from master branch!
+
 Edited from branch 1
+
+Edited in main
+
+Resolved the merge conflict by keeping updates from both
