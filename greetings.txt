@@ -1,1 +1,2 @@
 Hey from master branch!
+Edited from branch 1
