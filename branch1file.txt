@@ -1,2 +1,7 @@
 From branch 1
+
+Hey! From branch 1
+
 Hey! I am main
+
+Hey! I am resolved
